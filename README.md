@@ -39,6 +39,10 @@ Before building the dashboard, I performed raw data analysis using **Python Pand
 
 ![Screenshot_5-12-2025_194448_tuition-analytics onrender com](https://github.com/user-attachments/assets/4b75e509-874c-48c4-ba35-220d857a46c7)
 
+![Screenshot_4-12-2025_223216_colab research google com](https://github.com/user-attachments/assets/762b67c0-47f7-45df-a173-d5f3f24cc135)
+
+![Screenshot_4-12-2025_223224_colab research google com](https://github.com/user-attachments/assets/d10374ab-8ddb-43e6-bc93-02e7cad3a14d)
+
 ---
 
 ## 🔧 How to Run Locally
