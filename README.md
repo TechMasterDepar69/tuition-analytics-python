@@ -26,7 +26,9 @@ An interactive data analytics dashboard designed to help educational businesses 
 
 ## 📸 Screenshots
 
-*(Drag and drop your screenshot of the charts and slider here)*
+![Screenshot_5-12-2025_194442_tuition-analytics onrender com](https://github.com/user-attachments/assets/6bd01ebc-46af-4740-b775-af8abff7c381)
+
+![Screenshot_5-12-2025_194448_tuition-analytics onrender com](https://github.com/user-attachments/assets/4b75e509-874c-48c4-ba35-220d857a46c7)
 
 ---
 
