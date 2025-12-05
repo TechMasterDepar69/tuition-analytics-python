@@ -15,6 +15,15 @@ An interactive data analytics dashboard designed to help educational businesses 
 
 ---
 
+## 🔬 Exploratory Data Analysis (EDA)
+
+Before building the dashboard, I performed raw data analysis using **Python Pandas** in a Jupyter Notebook to identify revenue patterns.
+
+* **View the Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1cnaIS6G3n2PWNOSNfH_iLH8A-AbfvpLt?usp=sharing)
+* **Key Insights:** Calculated retention rates and identified "Enrolled" vs "Trial" conversion metrics.
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.13
