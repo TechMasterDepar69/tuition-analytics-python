@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# We usually ignore .db files, but for this DEMO, we want to upload it!
+# *.db

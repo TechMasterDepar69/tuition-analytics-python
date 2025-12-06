@@ -12,6 +12,7 @@ An interactive data analytics dashboard designed to help educational businesses 
 * **Predictive Analytics:** Features a "What-If" Scenario Planner that allows users to simulate revenue growth based on projected enrollments.
 * **Interactive Filtering:** Sidebar controls to filter data by Student Status (Enrolled, Trial, Paused).
 * **Data Visualization:** Auto-generating Bar Charts to analyze tuition distribution by course type.
+* **SQL Integration** Replaced hardcoded data lists with a persistent SQLite Database. Engineered a Python seeding script to populate initial table structures and relational data.
 
 ---
 
